@@ -1,0 +1,121 @@
+#container {
+	width:1300px;
+	margin: 0 auto;
+	background-color: white;
+}
+#backcolour {
+	background-color: #4D4B4C;
+	margin: 0;
+}
+
+header {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align:center;
+	background-color: #4D4B4C;
+	color: white;
+	height:100px;
+	margin-top:-30px;
+}
+header h1 {
+	padding-top:25px;
+	font-size:45px;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color:#333;
+	margin: 0px 0px 0px 0px;
+}
+
+#Content {
+	margin-top:20px;
+	display: flex;
+  	flex-direction: column;
+  	justify-content:space-evenly;
+  	text-align:center;
+}
+
+#Row1 {
+	display: flex;
+  	flex-direction: row;
+  	justify-content:space-evenly;
+}
+
+#Row2 {
+	display: flex;
+  	flex-direction: row;
+  	justify-content:space-evenly;
+}
+
+#Row3 {
+	display: flex;
+  	flex-direction: row;
+  	justify-content:space-evenly;
+}
+
+#Row4 {
+	display: flex;
+  	flex-direction: row;
+  	justify-content:space-evenly;
+}
+
+#Row5 {
+	display: flex;
+  	flex-direction: row;
+  	justify-content:space-evenly;
+}
+
+img, svg { 
+	width: 100%; 
+	height:300px;
+}
+
+
+#FirstD:hover, #ThirdD:hover {
+	fill:#333333;
+}
+
+#SecondD:hover, #LastD:hover {
+	fill:#1D31A3;
+}
+
+#CA:hover {
+	fill:#3FA9F5;
+}
+
+#ZMain:hover {
+	fill:#091870;
+}
+
+#TopBar:hover, #TopBar-2:hover{
+	fill:#6D0A29;
+}
+
+#BlueFiller:hover {
+	fill:#E38E2D;
+}
+
+#Moon:hover, #CType:hover {
+	fill:#006837;
+}
+
+#Mix:hover, #OrangeSFill:hover, #YellowSFill:hover {
+	fill:#000000;
+}
+
+#PurpleFillerT:hover{
+	fill:#424242;
+}
+
+#QType:hover {
+	fill:#0BD1C7;
+}
+
+#Stripe:hover {
+	fill:#C60505;
+}
+
+#BlueU:hover,#RedU:hover,#PinkU:hover,#BlackU:hover{
+	fill:white;
+}

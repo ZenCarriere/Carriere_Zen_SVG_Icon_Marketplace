@@ -1,0 +1,26 @@
+<svg id="DLogo" xmlns="http://www.w3.org/2000/svg" width="88.46" height="91.07" viewBox="0 0 88.46 91.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d31a3;
+      }
+
+      .cls-2 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <title>DLogo</title>
+  <g id="D">
+    <path id="FirstD" class="cls-1" d="M0,91.07V0H20q8.47,0,8.48,8.54v74q0,8.55-8.54,8.54Zm8.54-8.54H20v-74H8.54Z"/>
+  </g>
+  <g id="_2D" data-name="2D">
+    <path id="SecondD" class="cls-2" d="M20,91.07V0H40q8.48,0,8.48,8.54v74q0,8.55-8.54,8.54Zm8.54-8.54H40v-74H28.54Z"/>
+  </g>
+  <g id="_3D" data-name="3D">
+    <path id="ThirdD" class="cls-1" d="M40,91.07V0H60q8.48,0,8.48,8.54v74q0,8.55-8.54,8.54Zm8.54-8.54H60v-74H48.54Z"/>
+  </g>
+  <g id="_4D" data-name="4D">
+    <path id="LastD" class="cls-2" d="M60,91.07V0H80q8.47,0,8.48,8.54v74q0,8.55-8.54,8.54Zm8.54-8.54H80v-74H68.54Z"/>
+  </g>
+</svg>
